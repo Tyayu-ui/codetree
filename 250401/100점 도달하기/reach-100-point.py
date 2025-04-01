@@ -9,5 +9,5 @@ while score <= 100:
     elif score >= 60:
         print("D", end = " ")
     else:
-        print("F")
+        print("F", end = " ")
     score+=1
