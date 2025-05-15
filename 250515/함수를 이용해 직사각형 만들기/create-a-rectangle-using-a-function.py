@@ -5,4 +5,3 @@ def prt(n, m):
     for _ in range(n):
        print('1'*m)
 
-prt(2,3)
